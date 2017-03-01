@@ -1,1 +1,1 @@
-You must to uncomment resolution to use grid
+You must to uncomment resolution to use the grid
